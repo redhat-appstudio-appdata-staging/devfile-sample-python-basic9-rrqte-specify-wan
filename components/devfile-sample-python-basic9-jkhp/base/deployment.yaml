@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: devfile-sample-python-basic9-jkhp
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/mreid1-tenant/devfile-sample-python-basic9/devfile-sample-python-basic9-jkhp@sha256:b11afebcada6aabca47e250f1ddeae629393bbfaa4eed428227f0f1b87699ef9
+      - image: quay.io/redhat-user-workloads-stage/mreid1-tenant/devfile-sample-python-basic9/devfile-sample-python-basic9-jkhp@sha256:c7b64dc059bfeeccc84771bc5fa32391ba7049e84c572163d30119ad980e6fdf
         name: my-python
         ports:
         - containerPort: 8081
