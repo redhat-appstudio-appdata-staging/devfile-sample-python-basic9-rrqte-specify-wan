@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: devfile-sample-python-basic9
   name: devfile-sample-python-basic9-jkhp
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
